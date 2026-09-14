@@ -213,3 +213,6 @@ JurassiCraft is offered as a full free version with all features and updates inc
 ---
 
 Dive into the world of dinosaurs today! Download JurassiCraft for free and start your Jurassic adventure now!
+
+---
+**Last updated:** 2026-09-14 18:56:51 UTC
